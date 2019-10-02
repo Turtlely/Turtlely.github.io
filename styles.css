@@ -3,6 +3,9 @@ h1 {
   font-family: verdana;
   font-size: 300%;
 }
+header{
+	background-color: yellow;
+}
 p  {
   color: red;
   font-family: courier;
