@@ -1,16 +1,10 @@
-body {
-  background-color: powderblue;
-}
-header {
-	background-color: magenta;
-}
 h1 {
   color: blue;
-  font-family: courier;
+  font-family: verdana;
+  font-size: 300%;
 }
-p {
+p  {
   color: red;
-}
-footer {
-	color: orchid;
+  font-family: courier;
+  font-size: 160%;
 }
