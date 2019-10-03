@@ -6,6 +6,7 @@
 
 @font-face {
 	font-family: 'Raleway', sans-serif;
+	font-family: 'Oswald', sans-serif;
 }
 
 header{
@@ -13,16 +14,59 @@ header{
 	padding:25px;
 	height: 25px;
 }
-#topnav{
-	color: white;
+.topnav{
+	color: #DBC2CF;
 	font-family: Raleway;
 	font-weight: 200;
 	padding:2px;
 	font-size: 20px;
-	float: right;
-	width: 100px;
 	height:50px;
+	display: flex;
+	justify-content: space-around;
+	letter-spacing: 2px;
+	width:500px;
+	list-style: none;
 }
-#nav{
+#Projects{
+	color:#DBC2CF;
 	text-decoration: none;
+}
+#Portfolio{
+	color: #DBC2CF;
+	text-decoration: none;
+}
+#Home{
+	color: #DBC2CF;
+	text-decoration: none;
+}
+#FrontPageBox1{
+	background-color: #2E4756;
+	background-image: url("background.png");
+	font-family: Oswald;
+	font-weight: lighter;
+	font-size:50px;
+	padding:200px;
+}
+#FrontPageBox1Sub1{
+	background-color: green;
+	padding-top:50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+#FrontPageBox1Sub2{
+	padding-top:20px;
+	padding-bottom: 20px;
+	background-color: yellow;
+	text-align: right;
+}
+nav{
+	display:flex;
+	justify-content: space-around;
+	align-items: center;
+}
+body{
+	background-color: #3C7289;
+}
+footer{
+	background-color: #9FA2B2;
 }
