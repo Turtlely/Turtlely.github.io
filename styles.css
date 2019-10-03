@@ -24,7 +24,7 @@ header{
 	display: flex;
 	justify-content: space-around;
 	letter-spacing: 2px;
-	width:500px;
+	width:600px;
 	list-style: none;
 }
 #Projects{
@@ -36,6 +36,10 @@ header{
 	text-decoration: none;
 }
 #Home{
+	color: #DBC2CF;
+	text-decoration: none;
+}
+#About{
 	color: #DBC2CF;
 	text-decoration: none;
 }
