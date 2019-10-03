@@ -43,6 +43,21 @@ header{
 	color: #DBC2CF;
 	text-decoration: none;
 }
+.title{
+	color: #DBC2CF;
+	text-align: center;
+	font-family: Oswald;
+	padding: 50px;
+	font-size: 50px;
+}
+.mainText{
+	color: #DBC2CF;
+	background-color: #2E4756; 
+	text-align: center;
+	font-family: Raleway;
+	padding: 50px;
+	font-size: 25px;
+}
 #FrontPageBox1{
 	background-image: url("background.PNG");
 	font-family: Oswald;
