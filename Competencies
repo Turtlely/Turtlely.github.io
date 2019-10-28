@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			About
+			PageName
 		</title>
 		<meta name="google-site-verification" content="YUO3eVmNLu4glY88WEGD3mukhXvMumN_SpJnEyAvoEU" />
 	</head>
@@ -33,38 +33,54 @@
 		</nav>
 	</header>
 	<body>
-		<div>
-			<div class="title">
-				<h1>
-					What is " The Data Cache "?
-				</h1>
+		<div id="skills">
+			<hr>
+			<div> <!-- Competencies-->
+				<div class="title">
+					<h1>
+						Competencies:
+					</h1>
+				</div>
+				<div class="mainText">
+					<p>
+						Python, Java, HTML, CSS,
+					</p>
+				</div>
 			</div>
-			<div id="aboutSpace">
-			<div>
-			<div class="mainText">
-				<p>
-						This is my portfolio for all the projects I do. I want to keep a record of all of them so I have a proof of all my skills
-					<br>
-					</br>
-						My plan is to help others with their own projects, while showing off what things I have done and can do. 
-					<br>
-					</br>
-						I am planning on making a youtube channel for tutorials and support, as I do want to help the open source technology community.
-					<br>
-					</br>
-						CONTACT:
-					<br>
-					</br>
-						Email: "thedatacache.com@gmail.com"
-					<br>
-					</br>
-						Github:
-						<a href="https://github.com/Turtlely">Turtlely</a> 
-				</p>
+			<hr>
+			<div> <!-- Abilites-->
+				<div class="title">
+					<h1>
+						Abilites and Conceptual Understanding
+					</h1>
+				</div>
+				<div class="mainText">
+					<p>
+						I can Implement: Data Structures, Algorithms, and Machine Learning Regression Models.
+						<br>
+						</br>
+						I can work with hardware, design programs, build products, and 
+					</p>
+				</div>
+			</div>
+			<hr>
+			<div><!-- Applications of knowledge -->
+				<div class="title">
+					<h1> 
+						Applications of my knowledge
+					</h1>
+				</div>
+				<div class="mainText">
+					<p>
+						I used HTML and CSS to build this website from scratch, have implemented Computer Vision and Machine Learning Regression Models in python.
+						<br>
+						</br>
+						Check Portfolio and Achievements for more information.
+					</p>
+				</div>
 			</div>
 		</div>
-	
-		</div>
+
 	</body>
 	<footer>
 		<div id="footerTop">
