@@ -9,7 +9,7 @@ Skills:
   Python, Java, Robotics, Engineering
 
 Knowledge:
-  Physics, Biology, Chemistry
+  Physics, Biology, Chemistry,
   Basic Computer science knowledge.
   Basic data structure and algorithms knowledge.
  
