@@ -12,10 +12,5 @@ Knowledge:<br>
   Physics, Biology, Chemistry.<br>
   Basic Computer science knowledge.<br>
   Basic data structure and algorithms knowledge.<br>
-  
- 
-Achievements:<br>
-  Got to state level in a chemistry competition.<br>
   Ample knowledge of physics, Electric fields, and harmonics.<br>
-  Started programming when I was 9<br>
-  Reigonals in Science Bowl.
+
