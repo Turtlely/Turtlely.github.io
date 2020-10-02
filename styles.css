@@ -1,0 +1,144 @@
+*
+{
+  	margin:0;
+	padding:0;
+}
+
+@font-face {
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Oswald', sans-serif;
+}
+
+header{
+	background-color: #16262E;
+	padding:25px;
+	height: 25px;
+}
+.topnav{
+	color: #DBC2CF;
+	font-family: Raleway;
+	font-weight: 200;
+	padding:2px;
+	font-size: 20px;
+	height:50px;
+	display: flex;
+	justify-content: space-around;
+	letter-spacing: 2px;
+	width:600px;
+	list-style: none;
+}
+#Projects{
+	color:#DBC2CF;
+	text-decoration: none;
+}
+#Portfolio{
+	color: #DBC2CF;
+	text-decoration: none;
+}
+#Home{
+	color: #DBC2CF;
+	text-decoration: none;
+}
+#About{
+	color: #DBC2CF;
+	text-decoration: none;
+}
+
+.title{
+	color: #DBC2CF;
+	text-align: center;
+	font-family: Oswald;
+	padding: 100px;
+	font-size: 25px;
+}
+.mainText{
+	color: #DBC2CF;
+	background-color: #2E4756; 
+	text-align: center;
+	font-family: Raleway;
+	padding: 100px;
+	font-size: 25px;
+}
+#FrontPageBox1{
+	background-image: url("background.PNG");
+	font-family: Oswald;
+	font-weight: lighter;
+	font-size:50px;
+	padding:200px;
+}
+#FrontPageBox1Sub1{
+	color: #DBC2CF;
+	background-color: #2E4756;
+	padding-top:50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+#FrontPageBox1Sub2{
+	padding-top:20px;
+	padding-bottom: 20px;
+	background-color: #3C7289;
+	text-align: center;
+}
+#footerTop{
+	background-color: #16262E;
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+#footerTopSub1{
+	background-color: #2E4756;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#quote{
+	text-align: center;
+	font-family: Raleway;
+	color: #DBC2CF;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+nav{
+	display:flex;
+	justify-content: space-around;
+	align-items: center;
+}
+body{
+	background-color: #3C7289;
+}
+footer{
+	background-color: #9FA2B2;
+}
+
+#Portfolio{
+	overflow: hidden;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin-top: 0px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+#Portfolio:hover + .dropdown-content {
+  display: block;
+}
+a:link {
+	color: #DBC2CF;
+}
+a:visited{
+	color: #DBC2CF;
+}
