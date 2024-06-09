@@ -1,0 +1,14 @@
+/* assets/css/custom-styles.css */
+
+body {
+  font-size: 20px;
+  line-height: 1.6; /* Adjust line height */
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  padding: 1em 0;
+  text-align: center;
+}
+

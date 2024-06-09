@@ -1,0 +1,27 @@
+title: Ryan Tang
+description: 
+baseurl: ""
+url: https://Turtlely.github.io
+
+theme: cvless
+
+# site settings
+taglong: 
+tagshort: 
+
+# author settings
+author:
+  name: Ryan Tang
+  email: cadmiumtrioxide@gmail.com
+photo: assets/files/inabu.jpg
+
+# social media links
+social:
+  github: Turtlely
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
