@@ -3,7 +3,7 @@ description:
 baseurl: ""
 url: https://Turtlely.github.io
 
-theme: cvless
+#theme: cvless
 
 # site settings
 taglong: 
