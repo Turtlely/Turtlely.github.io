@@ -182,7 +182,6 @@ title: Project Gallery
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <p><a href="https://github.com/Turtlely/bad-apple">https://github.com/Turtlely/bad-apple</a></p>
 	    <p><a href="https://www.youtube.com/watch?v=VnhCRXgsoVQ">https://www.youtube.com/watch?v=VnhCRXgsoVQ</a></p>
-
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <p><a href="https://github.com/Turtlely/SIR-model">https://github.com/Turtlely/SIR-model</a></p>
@@ -201,12 +200,12 @@ title: Project Gallery
 </div>
 <!-- Image Pair -->
 <div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	<img src="/assets/files/nature/F1.jpg" style="width: 90%; height: auto; max-width: 100;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+	<img src="/assets/files/projects/computer/cover.jpg" style="width: 90%; height: auto; max-width: 100;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
 </div>
 
 <!-- Description -->
 <div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <p>Austin Texas, September 2024</p>
+	<a href="/projects/8-bit-computer">Project Page</a>
 </div>
 
 
@@ -232,10 +231,10 @@ title: Project Gallery
 <!-- Description -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <a href="/pigments">Project Page</a>
+	    <a href="/projects/pigments">Project Page</a>
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <a href="/guitar">Project Page</a>
+	    <a href="/projects/guitar">Project Page</a>
 	</div>
 </div>
 
