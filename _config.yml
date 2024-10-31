@@ -28,3 +28,6 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-795195X14Q
