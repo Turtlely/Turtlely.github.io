@@ -13,6 +13,8 @@ title: Project Gallery
 
 # Cobalt Pigments
 
+## Cobalt Blue
+
 ## Cobalt Phosphate
 
 ## Cobalt Oxide

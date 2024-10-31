@@ -307,7 +307,7 @@ title: Project Gallery
 	    <h2>Walnut Cutting Board</h2>
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <h2>FILLER</h2>
+	    <h2>Open Source Multielectrode Array (Neuroscience)</h2>
 	</div>
 </div>
 <!-- Image Pair -->
@@ -316,7 +316,7 @@ title: Project Gallery
 		<img src="/assets/files/projects/cutb/cuttingboard.jpg" style="width: 90%; height: auto; max-width: 100%;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-		<img src="/assets/files/nature/F1.jpg" style="width: 90%; height: auto; max-width: 100;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+		<img src="/assets/files/projects/openelectrode/cover.png" style="width: 90%; height: auto; max-width: 100;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
 	</div>
 </div>
 <!-- Description -->
@@ -325,7 +325,7 @@ title: Project Gallery
 	    <a href="/board">Project Page</a>
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <a href="/filler">Project Page</a>
+	    <a href="https://github.com/Turtlely/OpenElectrode">Project Page</a>
 	</div>
 </div>
 
@@ -337,7 +337,7 @@ title: Project Gallery
 </div>
 <!-- Image Pair -->
 <div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	<img src="/assets/files/nature/F1.jpg" style="width: 90%; height: auto; max-width: 100;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+	<img src="/assets/files/projects/watch/watch.jpg" style="width: 90%; height: auto; max-width: 100;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
 </div>
 
 <!-- Description -->

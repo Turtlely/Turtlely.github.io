@@ -73,7 +73,7 @@ title: Astrophotography Gallery
 
 <!-- Images -->
 <div style="display: flex; justify-content: left; align-items: center; margin-top: 20px;">
-	<img src="/assets/files/astro/pleiades.png" style="width: 100%; height: auto; max-width: 100%;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+	<img src="/assets/files/astro/rig.jpg" style="width: 100%; height: auto; max-width: 100%;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
 </div>
 
 ---
@@ -149,7 +149,7 @@ title: Astrophotography Gallery
 <!-- Description -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <p>Austin Texas, September 2024</p>
+	    <p>Austin Texas, January 2024</p>
 	</div>
 </div>
 
@@ -162,16 +162,16 @@ title: Astrophotography Gallery
 <!-- Image Pair -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <img src="/assets/files/astro/tsuchinshan.png" style="width: 90%; height: auto; max-width: 100%;" alt="Andromeda Galaxy (M31)" />
+	    <img src="/assets/files/nature/2023SR1.jpg" style="width: 90%; height: auto; max-width: 100%;" alt="Andromeda Galaxy (M31)" />
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <img src="/assets/files/astro/tsuchinshan2.png" style="width: 90%; height: auto; max-width: 100%;" alt="Pleiades Star Cluster (M45)" />
+	    <img src="/assets/files/nature/2023SR2.jpg" style="width: 90%; height: auto; max-width: 100%;" alt="Pleiades Star Cluster (M45)" />
 	</div>
 </div>
 <!-- Description -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <p>Austin Texas, September 2024</p>
+	    <p>Austin Texas, January 2023</p>
 	</div>
 </div>
 
