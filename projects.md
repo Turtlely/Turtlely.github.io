@@ -261,10 +261,10 @@ title: Project Gallery
 <!-- Description -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <a href="/chips">Project Page</a>
+	    <a href="/projects/chips">Project Page</a>
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <a href="/furnace">Project Page</a>
+	    <a href="/projects/furnace">Project Page</a>
 	</div>
 </div>
 
@@ -291,10 +291,10 @@ title: Project Gallery
 <!-- Description -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <a href="/rubies">Project Page</a>
+	    <a href="/projects/rubies">Project Page</a>
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <a href="/motor">Project Page</a>
+	    <a href="/projects/motor">Project Page</a>
 	</div>
 </div>
 

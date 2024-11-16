@@ -1,4 +1,70 @@
+<style>
+  /* Button styles */
+  button {
+    background-color: transparent; /* Transparent background */
+    border: 1px solid white;       /* White border */
+    border-radius: 6px;           /* Rounded corners */
+    color: white;                  /* White text */
+    padding: 10px 20px;            /* Add some padding for size */
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-size: 16px;               /* Set font size */
+    cursor: pointer;              /* Change cursor to pointer when hovering */
+    transition: all 0.3s ease;     /* Smooth transition on hover */
+  }
+
+  button:hover {
+    background-color: white;      /* White background on hover */
+    color: black;                 /* Black text on hover */
+  }
+
+  /* Input field styles */
+  input[type="email"] {
+    background-color: transparent; /* Transparent background */
+    border: 1px solid white;       /* White border */
+    border-radius: 6px;           /* Rounded corners */
+    color: white;                  /* White text */
+    padding: 10px 20px;            /* Same padding as button */
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-size: 16px;               /* Set font size */
+    width: 100%;                   /* Make the input field fill available space */
+    box-sizing: border-box;        /* Ensure padding is included in the width */
+    margin-bottom: 10px;           /* Space below the input field */
+  }
+
+  /* Input field focus effect */
+  input[type="email"]:focus {
+    outline: none;                /* Remove default focus outline */
+    border-color: #ffcc00;        /* Change border color when focused */
+  }
+
+  /* Placeholder text styling */
+  input[type="email"]::placeholder {
+    color: white;                 /* Make placeholder text white */
+    opacity: 0.5;                 /* Slightly transparent placeholder text */
+  }
+</style>
+
+
 <footer>
+  <!-- Add a horizontal line -->
+  <hr>
+  <small>
+  <!-- Message about joining the mailing list -->
+  <p>Join my mailing list to receive occasional (biweekly?) updates about new blog posts, photography, and projects!</p>
+  <p>I won't spam you, I promise.</p>
+</small>
+  <!-- Modify this form HTML and place wherever you want your form -->
+  <form action="https://formspree.io/f/xrbgkkob" method="POST">
+    <label>
+      <input type="email" name="email" required placeholder="yourname@example.com">
+    </label>
+    <button type="submit">Join</button>
+  </form>
+
+  <br>
+
   <small>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
     {{ site.author.name }}. All rights reserved.</small>
 </footer>
