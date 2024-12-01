@@ -72,6 +72,36 @@ title: Project Gallery
 <!-- Header -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <h2>Laser Physics</h2>
+	</div>
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <h2>Wavefunction Evolution and Quantum Tunneling</h2>
+	</div>
+</div>
+<!-- Image Pair -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+		<img src="/assets/files/projects/laser/3-level.png" style="width: 90%; height: auto; max-width: 100%;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+	</div>
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+		<img src="/assets/files/projects/quantum/tunnel.gif" style="width: 90%; height: auto; max-width: 100%;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+	</div>
+</div>
+<!-- Description -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p><a href="https://github.com/Turtlely/laser">https://github.com/Turtlely/laser</a></p>
+	</div>
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p><a href="https://github.com/Turtlely/quantum-wavefunction">https://github.com/Turtlely/quantum-wavefunction</a></p>
+	</div>
+</div>
+
+<br>
+
+<!-- Header -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <h2>Gravity Simulation</h2>
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
@@ -185,6 +215,27 @@ title: Project Gallery
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <p><a href="https://github.com/Turtlely/SIR-model">https://github.com/Turtlely/SIR-model</a></p>
+	</div>
+</div>
+
+<br>
+
+<!-- Header -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <h2>Hodgkin-Huxley Neuronal Dynamics</h2>
+	</div>
+</div>
+<!-- Image Pair -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 100%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+		<img src="/assets/files/projects/neuron/voltage.png" style="width: 90%; height: auto; max-width: 100%;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+	</div>
+</div>
+<!-- Description -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p><a href="https://github.com/Turtlely/neuron">https://github.com/Turtlely/neuron</a></p>
 	</div>
 </div>
 
