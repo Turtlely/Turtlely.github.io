@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "23ed07bde61a91ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00edc679ae38c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a937098e32fac151",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "android-chrome-512x512.png"
+              },
+              "icon": "lucide-image",
+              "title": "android-chrome-512x512"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b70630c3c4daa91",
+    "type": "split",
+    "children": [
+      {
+        "id": "586e4786c02b9358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8af69e29c39ae52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a6b979f50bd577f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c5d3bf5b898768d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec5754dfb9793586",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f2bef5aca27e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "195b12a7b6400957",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "android-chrome-512x512.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for android-chrome-512x512"
+            }
+          },
+          {
+            "id": "1edd64b19395e9fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "android-chrome-512x512.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from android-chrome-512x512"
+            }
+          },
+          {
+            "id": "5efd44952fd9e03a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16789858658ee5e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "android-chrome-512x512.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of android-chrome-512x512"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a937098e32fac151",
+  "lastOpenFiles": [
+    "android-chrome-192x192.png"
+  ]
+}

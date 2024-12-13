@@ -222,6 +222,39 @@ title: Project Gallery
 
 <!-- Header -->
 <div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 75%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <h2>Black-Scholes Equation and European Options Pricing</h2>
+	</div>
+</div>
+<!-- Image Pair -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+		<img src="/assets/files/projects/black-scholes/traj.png" style="width: 90%; height: auto; max-width: 100%;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+	</div>
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+		<img src="/assets/files/projects/black-scholes/stock_price_histo.png" style="width: 90%; height: auto; max-width: 100%;" alt="C/2023 A3 (Tsuchinshan-ATLAS)" />
+	</div>
+</div>
+<!-- Description -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p>Stock price trajectory</p>
+	</div>
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p>Histogram of future stock prices</p>
+	</div>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p><a href="https://github.com/Turtlely/black-scholes">https://github.com/Turtlely/black-scholes</a></p>
+	</div>
+</div>
+
+<br>
+
+<!-- Header -->
+<div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <h2>Hodgkin-Huxley Neuronal Dynamics</h2>
 	</div>
