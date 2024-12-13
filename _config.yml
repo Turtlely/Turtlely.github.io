@@ -3,7 +3,7 @@ description:
 baseurl: ""
 url: https://Turtlely.github.io
 
-theme: cvless
+#theme: cvless
 
 # site settings
 taglong: 
@@ -25,3 +25,9 @@ exclude:
   - docker-compose.yml
   - LICENSE
   - README.md
+
+plugins:
+  - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-795195X14Q
