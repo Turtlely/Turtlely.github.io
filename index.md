@@ -37,7 +37,7 @@ title: Home
 
 ## Site details!
 
-<p><small>The fluid simulation on the homepage is actually ripped off the example from the Fluid-JS project. You can find information about it here <a href="https://github.com/malik-tillman/Fluid-JS"></a>. If you didn't notice the simulation, try clicking and dragging around. It's pretty cool!</small></p>
+<p><small>The fluid simulation on the homepage is actually ripped off the example from the Fluid-JS project. You can find information about it <a href="https://github.com/malik-tillman/Fluid-JS">here</a>. If you didn't notice the simulation, try clicking and dragging around. You need to be on desktop for this to work, I don't think it works on mobile. It's pretty cool!</small></p>
 
 # Blog Posts (my thoughts and rambles):
 

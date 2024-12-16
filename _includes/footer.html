@@ -1,10 +1,10 @@
 <style>
-  /* Button styles */
-  button {
+    /* Button styles */
+  :root button {
     background-color: transparent; /* Transparent background */
-    border: 1px solid white;       /* White border */
+    border: 1px solid #f3f3f3;       /* White border */
     border-radius: 6px;           /* Rounded corners */
-    color: white;                  /* White text */
+    color: #f3f3f3;                  /* White text */
     padding: 10px 20px;            /* Add some padding for size */
     padding-top: 5px;
     padding-bottom: 8px;
@@ -13,17 +13,17 @@
     transition: all 0.3s ease;     /* Smooth transition on hover */
   }
 
-  button:hover {
-    background-color: white;      /* White background on hover */
-    color: black;                 /* Black text on hover */
+  :root button:hover {
+    background-color: #f3f3f3;      /* White background on hover */
+    color: #424a52;                 /* Black text on hover */
   }
 
   /* Input field styles */
-  input[type="email"] {
+  :root input[type="email"] {
     background-color: transparent; /* Transparent background */
-    border: 1px solid white;       /* White border */
+    border: 1px solid #f3f3f3;       /* White border */
     border-radius: 6px;           /* Rounded corners */
-    color: white;                  /* White text */
+    color: #f3f3f3;                  /* White text */
     padding: 10px 20px;            /* Same padding as button */
     padding-top: 5px;
     padding-bottom: 8px;
@@ -34,14 +34,109 @@
   }
 
   /* Input field focus effect */
-  input[type="email"]:focus {
+  :root input[type="email"]:focus {
     outline: none;                /* Remove default focus outline */
     border-color: #ffcc00;        /* Change border color when focused */
   }
 
   /* Placeholder text styling */
-  input[type="email"]::placeholder {
-    color: white;                 /* Make placeholder text white */
+  :root input[type="email"]::placeholder {
+    color: #f3f3f3;                 /* Make placeholder text white */
+    opacity: 0.5;                 /* Slightly transparent placeholder text */
+  }
+
+
+  /* Button styles */
+  [data-theme='dark'] button {
+    background-color: transparent; /* Transparent background */
+    border: 1px solid #f3f3f3;       /* White border */
+    border-radius: 6px;           /* Rounded corners */
+    color: #f3f3f3;                  /* White text */
+    padding: 10px 20px;            /* Add some padding for size */
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-size: 16px;               /* Set font size */
+    cursor: pointer;              /* Change cursor to pointer when hovering */
+    transition: all 0.3s ease;     /* Smooth transition on hover */
+  }
+
+  [data-theme='dark'] button:hover {
+    background-color: #f3f3f3;      /* White background on hover */
+    color: #424a52;                 /* Black text on hover */
+  }
+
+  /* Input field styles */
+  [data-theme='dark'] input[type="email"] {
+    background-color: transparent; /* Transparent background */
+    border: 1px solid #f3f3f3;       /* White border */
+    border-radius: 6px;           /* Rounded corners */
+    color: #f3f3f3;                  /* White text */
+    padding: 10px 20px;            /* Same padding as button */
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-size: 16px;               /* Set font size */
+    width: 100%;                   /* Make the input field fill available space */
+    box-sizing: border-box;        /* Ensure padding is included in the width */
+    margin-bottom: 10px;           /* Space below the input field */
+  }
+
+  /* Input field focus effect */
+  [data-theme='dark'] input[type="email"]:focus {
+    outline: none;                /* Remove default focus outline */
+    border-color: #ffcc00;        /* Change border color when focused */
+  }
+
+  /* Placeholder text styling */
+  [data-theme='dark'] input[type="email"]::placeholder {
+    color: #f3f3f3;                 /* Make placeholder text white */
+    opacity: 0.5;                 /* Slightly transparent placeholder text */
+  }
+
+
+  
+  /* Button styles */
+  [data-theme='light'] button {
+    background-color: transparent; /* Transparent background */
+    border: 1px solid #424a52;       /* dark border */
+    border-radius: 6px;           /* Rounded corners */
+    color: #424a52;                  /* White text */
+    padding: 10px 20px;            /* Add some padding for size */
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-size: 16px;               /* Set font size */
+    cursor: pointer;              /* Change cursor to pointer when hovering */
+    transition: all 0.3s ease;     /* Smooth transition on hover */
+  }
+
+  [data-theme='light'] button:hover {
+    background-color: #424a52;      /* White background on hover */
+    color: #f3f3f3;                 /* Black text on hover */
+  }
+
+  /* Input field styles */
+  [data-theme='light'] input[type="email"] {
+    background-color: transparent; /* Transparent background */
+    border: 1px solid #424a52;       /* White border */
+    border-radius: 6px;           /* Rounded corners */
+    color: #424a52;                  /* White text */
+    padding: 10px 20px;            /* Same padding as button */
+    padding-top: 5px;
+    padding-bottom: 8px;
+    font-size: 16px;               /* Set font size */
+    width: 100%;                   /* Make the input field fill available space */
+    box-sizing: border-box;        /* Ensure padding is included in the width */
+    margin-bottom: 10px;           /* Space below the input field */
+  }
+
+  /* Input field focus effect */
+  [data-theme='light'] input[type="email"]:focus {
+    outline: none;                /* Remove default focus outline */
+    border-color: #6aa3d6;        /* Change border color when focused */
+  }
+
+  /* Placeholder text styling */
+  [data-theme='light'] input[type="email"]::placeholder {
+    color: #424a52;                 /* Make placeholder text white */
     opacity: 0.5;                 /* Slightly transparent placeholder text */
   }
 </style>
@@ -58,9 +153,9 @@
   <!-- Modify this form HTML and place wherever you want your form -->
   <form action="https://formspree.io/f/xrbgkkob" method="POST">
     <label>
-      <input type="email" name="email" required placeholder="yourname@example.com">
+      <input data-theme ='dark' type="email" name="email" autocomplete=off required placeholder="yourname@example.com">
     </label>
-    <button type="submit">Join</button>
+    <button data-theme ='dark' type="submit">Join</button>
   </form>
 
   <br>
