@@ -31,4 +31,14 @@ title: Home
 
 <p><small>I also really enjoy writing computer simulations and building projects with my hands, especially those that have visuals. You can browse a portfolio of projects that I have completed or am currently working on <a href="/projects">here!</a></small></p>
 
+---
+
+# Meta
+
+## Site details!
+
+<p><small>The fluid simulation on the homepage is actually ripped off the example from the Fluid-JS project. You can find information about it here <a href="https://github.com/malik-tillman/Fluid-JS"></a>. If you didn't notice the simulation, try clicking and dragging around. It's pretty cool!</small></p>
+
+# Blog Posts (my thoughts and rambles):
+
 {% include archive.html %}
