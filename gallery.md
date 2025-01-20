@@ -19,7 +19,7 @@ title: Astrophotography Gallery
 <!-- Image Pair -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <img src="/assets/files/astro/horsehead/A.png" style="width: 90%; height: auto; max-width: 100%;" alt="Andromeda Galaxy (M31)" />
+	    <img src="/assets/files/astro/horsehead/B.png" style="width: 90%; height: auto; max-width: 100%;" alt="Andromeda Galaxy (M31)" />
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <img src="/assets/files/astro/rosette/A.png" style="width: 90%; height: auto; max-width: 100%;" alt="Pleiades Star Cluster (M45)" />
