@@ -10,6 +10,26 @@ title: Astrophotography Gallery
 # Astrophotography
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <h2>Christmas Tree Cluster (NGC 2264)</h2>
+	</div>
+</div>
+<!-- Image Pair -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 100%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <img src="/assets/files/astro/christmastree/A.png" style="width: 90%; height: auto; max-width: 100%;" alt="Andromeda Galaxy (M31)" />
+	</div>
+</div>
+<!-- Description -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p>Austin Texas, January 2025</p>
+	</div>
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <h2>Horsehead Nebula (Barnard 33)</h2>
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">

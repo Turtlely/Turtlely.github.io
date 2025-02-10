@@ -102,6 +102,36 @@ title: Project Gallery
 <!-- Header -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <h2>MNIST Character Recognition Neural Network</h2>
+	</div>
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <h2>Electromagnetic Lens and B-field Visualizer</h2>
+	</div>
+</div>
+<!-- Image Pair -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <img src="/assets/files/projects/mnist/6.png" style="width: 90%; height: auto; max-width: 100%;" alt="diffraction of a wave" />
+	</div>
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <img src="/assets/files/projects/electromagnetic_lens/lens.png" style="width: 90%; height: auto; max-width: 100%;" alt="Equilibriation of a 100x100 Ising model" />
+	</div>
+</div>
+<!-- Description -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p><a href="https://github.com/Turtlely/neural-network">https://github.com/Turtlely/neural-network</a></p>
+	</div>
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	    <p><a href="https://github.com/Turtlely/electron-microscope">https://github.com/Turtlely/electron-microscope</a></p>
+	</div>
+</div>
+
+<br>
+
+<!-- Header -->
+<div style="display: flex; justify-content: center; align-items: center;">
+	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <h2>Gravity Simulation</h2>
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
