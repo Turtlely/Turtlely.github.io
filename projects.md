@@ -505,6 +505,26 @@ title: Project Gallery
 
 <!-- Header -->
 <div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <h2>Characterization of and Shielding Against Single Event Effects (SEEs) in EEPROMs</h2>
+</div>
+<!-- Image Pair -->
+<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
+	<img src="/assets/files/projects/research/bl4s-2025/PCB.png" style="width: 90%; height: auto; max-width: 100%;" alt="Andromeda Galaxy (M31)" />
+</div>
+
+<!-- Description -->
+<div style="flex: 0 1 50%; align-text: left; display: flex; flex-direction: column; align-items: center;">
+	<h3 style="text-transform: capitalize;">Abstract:</h3>
+	<small><p>
+		&emsp; &emsp; This project investigates the vulnerability of EEPROM memory chips to Single Event Effects (SEEs) caused by high-energy particles, replicating cosmic ray conditions using the T9 beamline at CERN. By irradiating memory chips and testing a variety of low-cost shielding materials—including concrete, iron, aluminum, and polyethylene—the experiment aims to quantify and reduce SEE-induced failures. Statistical analysis will determine the effectiveness of each material in mitigating radiation damage. The goal is to inform cost-effective shielding strategies for electronics in space and accelerator environments.
+	</p></small>
+	<a href="https://tinyurl.com/nsbny6sv">Link to paper</a>
+</div>
+
+<br>
+
+<!-- Header -->
+<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
     <h2>Experimental Test for the Role of Short-Range Correlations in the EMC Effect</h2>
 </div>
 <!-- Image Pair -->
