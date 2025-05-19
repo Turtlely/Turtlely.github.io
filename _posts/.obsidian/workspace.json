@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-13-goodness.md",
+                "file": "2024-06-09-test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-13-goodness"
-            }
-          },
-          {
-            "id": "b5c659fab2d1cac0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-06-09-test"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,12 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5c659fab2d1cac0",
+  "active": "4e1b1828aa048fb0",
   "lastOpenFiles": [
+    "2025-5-13-Reflections.md",
+    "2024-12-23-IHTFP!.md",
+    "2024-06-09-test.md",
     "2024-12-13-goodness.md",
     "2024-12-13-IHTFP!.md",
     "2024-08-30-perseverance.md",
-    "2024-06-09-test.md",
     "2024-12-01-relativity.md"
   ]
 }
