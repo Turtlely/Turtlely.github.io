@@ -51,7 +51,7 @@ title: Project Gallery
 <!-- Image Pair -->
 <div style="display: flex; justify-content: center; align-items: center;">
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-	    <img src="/assets/files/projects/explosive-lens/detonation.gif" style="width: 90%; height: auto; max-width: 100%;" alt="Explosive lens shockwave" />
+	    <img src="/assets/files/projects/explosive-lens/display.gif" style="width: 90%; height: auto; max-width: 100%;" alt="Explosive lens shockwave" />
 	</div>
 	<div style="flex: 0 1 50%; text-align: center; display: flex; flex-direction: column; align-items: center;">
 	    <img src="/assets/files/projects/electrostatics/field.png" style="width: 90%; height: auto; max-width: 100%;" alt="electrostatic field of a multipole" />
